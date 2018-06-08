@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!--
-  Copyright © 2018 FinalBit Solution. All rights reserved.
-   http://www.finalbit.ch
-   See LICENSE.txt for license details.
--->
 <module>
 	<name>fb_seotoolkit</name>
 	<displayName><![CDATA[FinalBit SEO ToolKit]]></displayName>
