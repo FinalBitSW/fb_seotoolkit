@@ -57,8 +57,7 @@
 	<p>
 		&raquo; {l s='You can get a PDF documentation to configure this module' mod='fb_richsnippets'} :
 		<ul>
-			<li><a href="#" target="_blank">{l s='English' mod='fb_richsnippets'}</a></li>
-			<li><a href="#" target="_blank">{l s='French' mod='fb_richsnippets'}</a></li>
+			<li><a href="https://github.com/FinalBitSW/fb_seotoolkit/wiki" target="_blank">{l s='English' mod='fb_richsnippets'}</a></li>
 		</ul>
 	</p>
 </div>
