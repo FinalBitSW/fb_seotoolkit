@@ -1,0 +1,23 @@
+{
+	"name" : "finalbit/fb_seotoolkit",
+	"description" : "PrestaShop module handles a few SEO related improvements, such as \"hreflang\", \"canonical\" and index.",
+	"homepage" : "http://www.finalbit.ch",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "FinalBit",
+			"email" : "service@finalbit.ch"
+		}
+	],
+	"require" : {
+		"php" : ">=5.3.0"
+	},
+	"config" : {
+		"preferred-install" : "dist"
+	},
+	"type" : "prestashop-module",
+	"support" : {
+		"email" : "support@finalbit.ch",
+		"issues" : "https://github.com/FinalBitSW/fb_seotoolkit/issues",
+		"wiki" : "https://github.com/FinalBitSW/fb_seotoolkit/wiki"
+	}
+}
